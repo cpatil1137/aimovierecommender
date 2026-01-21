@@ -50,7 +50,7 @@ def recommend(movie):
 
 
 st.set_page_config(layout="wide")
-st.header('Movie Recommender System Using Machine Learning')
+st.header('AI Movie Recommender ')
 
 # Load the data files
 try:
@@ -87,4 +87,5 @@ if st.button('Show Recommendation'):
                 
                 rating = recommended_movie_ratings[i]
                 st.caption(f"Rating: {rating:.1f} ⭐")
+
 
