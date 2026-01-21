@@ -5,7 +5,7 @@
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 here is a demo,
 
-* [Click here to run it live on server](https://movie-recommender-system-ml-xpehuexxnm4uwqqejkgce2.streamlit.app/)
+* [Click here to run it live on server](https://aimovierecommender-acuqthqidib4nrkewwac5j.streamlit.app/)
 
 
 # Demo:
